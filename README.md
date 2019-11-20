@@ -1,6 +1,4 @@
-# unit01-portfolio
-
-# Project Title
+# My Basic Portfolio: Unit01
 
 Unit01 HTML, CSS, and Git Homework: Portfolio
 
@@ -46,9 +44,9 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Authors
 
-- **YOUR NAME**
+- **Michael(Eunsoo)Jung**
 
-* [Link to Portfolio Site](#)
+* [https://eunsoojung.github.io/basic-portfolio/](#)
 * [Link to Github](https://github.com/)
 * [Link to LinkedIn](https://www.linkedin.com/)
 
