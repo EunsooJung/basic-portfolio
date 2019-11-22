@@ -3,12 +3,49 @@
 
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Document</title>
+  <link rel="stylesheet" href="assets/css/reset.css" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <title>Michael's Portfolio</title>
 </head>
 
 <body>
+  <header>
+    <nav class="navbar">
+      <H1>
+        <a href="index.html">
+          <i class="fas fa-code">Michael Eunsoo Jung</i>
+        </a>
+      </H1>
+      <ul>
+        <li><a href="index.html">about</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+        <li><a href="contact.html">contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <div class="container">
+    <div id="main_title">
+      <h1>Contact</h1>
+      <hr>
+    </div>
+    <form action="#" id="form1">
+      <label for="name">Name</label>
+      <input type="text" id="name" name="name" placeholder="Your name..">
+
+      <label for="lname">E-mail</label>
+      <input type="text" id="lname" name="lastname" placeholder="example@email.com">
+
+      <label for="subject">Message</label>
+      <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+      <input type="submit" value="Submit">
+    </form>
+  </div>
+
+  <footer>
+    Copylight @
+  </footer>
 
 </body>
 
